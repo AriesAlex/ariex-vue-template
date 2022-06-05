@@ -1,0 +1,11 @@
+{
+  "ui": {
+    "attention": "Attention",
+    "confirmation": "Confirmation",
+    "yes": "Yes",
+    "no": "No",
+    "enter": "Enter",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  }
+}
